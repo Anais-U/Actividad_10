@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividad_10</string>
+    <string name="urlInput">Ingrese la URL del sitio web</string>
+    <string name="openWebPageButton">Abrir Página Web</string>
+</resources>
